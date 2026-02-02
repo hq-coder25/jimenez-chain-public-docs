@@ -14,6 +14,7 @@ By treating code as law and processes as municipal services, JimenezChain bridge
 
 ## Documentation
 *   **[Read the Official Whitepaper (Era V)](WHITEPAPER.md)**: A deep dive into the Sovereign Municipal System architecture, Zero Point Energy, and the transition from industry to civilization.
+*   **[Security Audit Report](SECURITY_AUDIT_REPORT.md)**: Official verification of the SovereignConsensus and TreasuryOracle contracts by the Jimenez Municipal Military Base.
 
 ## Deployed Infrastructure
 The following contracts serve as the authoritative anchors for the JimenezChain network on the Ethereum Mainnet:
