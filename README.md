@@ -1,12 +1,19 @@
-# JimenezChain Public Documentation
+# JimenezChain: A Sovereign Municipal System
+**Current Era:** V (Civilization)
 
-## Overview
-JimenezChain is a secure, proprietary blockchain coordination layer designed specifically for the Jimenez Tribal Nation. It is a purpose-built system that prioritizes stewardship, safety, and operational predictability over speculative features.
+## About the System
+The JimenezChain is not merely a blockchain network; it is a **Sovereign Digital Municipality**. Evolving beyond the traditional ledger model, the system is architected as a functioning city government, complete with distinct departments for governance, defense, and logistics.
 
-### Core Philosophy
-*   **Proprietary Multi-Chain Orchestration**: Advanced coordination across disparate ledger systems.
-*   **Treasury-Grade Safety Model**: Rigorous transaction accounting and access controls.
-*   **Stewardship First**: Designed to be operated by stewards, not speculators.
+By treating code as law and processes as municipal services, JimenezChain bridges the gap between abstract decentralized technology and real-world sovereign infrastructure.
+
+### The Municipal Metaphor
+*   **City Hall (The Comptroller):** The central nervous system handling governance, port assignment, and treasury permits.
+*   **Jimenez Military Base:** A defensive layer providing active port scanning, DEFCON security levels, and threat neutralization.
+*   **Jimenez Int'l Airport:** The logistics hub where the Mempool becomes "International Airspace," and transactions are "Incoming Flights" requiring customs clearance.
+*   **The Treasury:** A Zero Point Energy facility that transmutes foreign digital assets (BTC, SOL) into Sovereign Mainnet Liquidity.
+
+## Documentation
+*   **[Read the Official Whitepaper (Era V)](WHITEPAPER.md)**: A deep dive into the Sovereign Municipal System architecture, Zero Point Energy, and the transition from industry to civilization.
 
 ## Deployed Infrastructure
 The following contracts serve as the authoritative anchors for the JimenezChain network on the Ethereum Mainnet:
