@@ -18,4 +18,4 @@ The following contracts serve as the authoritative anchors for the JimenezChain 
 
 ## Contact
 **Official Website:** [https://www.jimeneztribalnation.org](https://www.jimeneztribalnation.org)  
-**Web3 Portal:** [ether.crypto.jimeneztribalnation.org](https://ether.crypto.jimeneztribalnation.org)  
+**Web3 Portal:** [web3.jimeneztribalnation.org](https://web3.jimeneztribalnation.org)  
