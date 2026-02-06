@@ -16,6 +16,15 @@ By treating code as law and processes as municipal services, JimenezChain bridge
 *   **[Read the Official Whitepaper (Era V)](WHITEPAPER.md)**: A deep dive into the Sovereign Municipal System architecture, Zero Point Energy, and the transition from industry to civilization.
 *   **[Security Audit Report](SECURITY_AUDIT_REPORT.md)**: Official verification of the SovereignConsensus and TreasuryOracle contracts by the Jimenez Municipal Military Base.
 
+## Public Runbook (Brief)
+This is a high-level orientation for operators and observers. Detailed operational procedures are maintained in private repositories.
+- Phase 1: Initialize core infrastructure services (relayer, core node).
+- Phase 2: Establish connectivity and control plane interfaces (API, mission control).
+- Phase 3: Activate monitoring subsystems (fuel, hydrogen, laboratory).
+- Phase 4: Bring environmental services online (distribution, refrigeration, environment).
+- Phase 5: Open governance console (comptroller) for municipal directives.
+- Phase 6: Engage defense and logistics observers (military base, airport).
+
 ## Deployed Infrastructure
 The following contracts serve as the authoritative anchors for the JimenezChain network on the Ethereum Mainnet:
 
